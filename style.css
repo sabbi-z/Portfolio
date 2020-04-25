@@ -1,0 +1,72 @@
+.topcontainer{
+    background-color: #fcbf1e;
+    height: 100%;
+    text-align: center;
+    
+
+}
+
+.imagetop{
+    width:100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+} 
+
+.fontmain{
+    font-family: "Monoton",cursive;
+    color: white;
+    font-size: 4rem;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    line-height: 1.5;
+
+}
+
+.navigate{
+    font-family: "Ubuntu";
+    
+}
+
+.skills{
+    text-align: center;
+    color: #77d8d8;
+    margin: 0% 20% 0% 20%;
+}
+
+.hskill{
+    margin: 1% 0% 5% 0%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.imageskill{
+    width: 20%;
+    float: left;
+    background-color: #d8345f;
+    border-radius: 100%;
+}
+h1{
+    color: #fcbf1e;
+    font-family: 'Kalam', cursive;
+}
+
+p{
+    font-family: 'Sacramento', cursive;
+    color: #d8345f;
+    font-size: 50px;
+    padding: 0% 2%;
+    margin-left: 20%;
+}
+
+.firstskill{
+    margin-bottom: 10%;
+}
+.footer{
+    background-color: #84a9ac;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
